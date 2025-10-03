@@ -62,11 +62,11 @@ Run cells top‑to‑bottom. The notebook covers scraping (or loading saved data
 ---
 
 ## 🖼️ Visuals
-[View Title Slide](images/slide_01.jpg) ·
-[Pipeline](images/slide_02.jpg) ·
-[Scraping & Preprocessing](images/slide_03.jpg) ·
-[Sentiment](images/slide_04.jpg) ·
-[Topics](images/slide_05.jpg)
+[View Title Slide](slide_01.jpg) ·
+[Pipeline](slide_02.jpg) ·
+[Scraping & Preprocessing](slide_03.jpg) ·
+[Sentiment](slide_04.jpg) ·
+[Topics](slide_05.jpg)
 
 
 
