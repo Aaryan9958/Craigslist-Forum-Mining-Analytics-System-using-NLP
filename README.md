@@ -20,10 +20,6 @@ craigslist-forum-analytics/
 └─ README.md
 ```
 
-> Tip: Keep very large files out of git using `.gitignore` or Git LFS. By default, `models/*.pkl` and `data/*` are ignored. You can remove those lines if you want to track them.
-
----
-
 ## 🧠 Project Overview
 
 Craigslist hosts public forums (Feedback, Flag Help, Help Desk) with rich user comments. This project mines those discussions to surface **sentiment, recurring pain points, and themes** so product & moderation teams can prioritize fixes and improvements.
@@ -55,8 +51,6 @@ jupyter notebook notebooks/final_total_code.ipynb
 ```
 Run cells top‑to‑bottom. The notebook covers scraping (or loading saved data), preprocessing, modeling, and evaluation.
 
-> If you already have trained models (.pkl), place them under `/models` and load with `joblib` or `pickle` in the notebook.
-
 ---
 
 ## 📊 Results (at a glance)
@@ -81,16 +75,6 @@ Run cells top‑to‑bottom. The notebook covers scraping (or loading saved data
 ### Explained Variance (TruncatedSVD)
 ![Explained Variance](images/svd_variance.png)
 ```
-
----
-
-## 📄 Documents
-
-See `/docs` for the milestone reports and presentation.
-
-- `CIS434_Group12_Milestone1.pdf`  
-- `Milestone2_Report_Group12.pdf`  
-- `Craigslist_Group12_Presentation.pdf`
 
 ---
 
