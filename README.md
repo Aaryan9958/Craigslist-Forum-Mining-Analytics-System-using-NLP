@@ -57,24 +57,19 @@ Run cells top‑to‑bottom. The notebook covers scraping (or loading saved data
 
 - **Topics**: recurring issues around post visibility/flagging, UX/navigation, formatting, spam/messaging, and mixed sentiment about simplicity
 - **Classifier**: Voting Ensemble (Logit + SVM + RF) achieved solid performance (accuracy and macro‑F1 in the 70s range) with strong recall on negatives (helpful for complaint triage)
-- **Artifacts**: confusion matrix, topic keyword tables, word clouds, explained‑variance plot
-
-> Add screenshots to `/images` and embed them below for a visual README.
+- **Artifacts**: confusion matrix, topic keyword tables, word clouds, explained‑variance plot.
 
 ---
 
-## 🖼️ Visuals (add your exports here)
+## 🖼️ Visuals
+[View Title Slide](images/slide_01.jpg) ·
+[Pipeline](images/slide_02.jpg) ·
+[Scraping & Preprocessing](images/slide_03.jpg) ·
+[Sentiment](images/slide_04.jpg) ·
+[Topics](images/slide_05.jpg)
 
-```markdown
-### Topic Word Cloud
-![Topic Word Cloud](images/topic_wordcloud.png)
 
-### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
 
-### Explained Variance (TruncatedSVD)
-![Explained Variance](images/svd_variance.png)
-```
 
 ---
 
