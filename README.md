@@ -61,7 +61,7 @@ Run cells top‑to‑bottom. The notebook covers scraping (or loading saved data
 
 ---
 ## 📊 Visuals
-All charts in one PDF: **[View the Visualization Pack (PDF)](docs/presentation.pdf)**
+All charts in one PDF: **[View the Visualization Pack (PDF)](presentation.pdf)**
 
 ---
 
