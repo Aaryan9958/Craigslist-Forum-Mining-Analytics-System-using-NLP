@@ -60,16 +60,8 @@ Run cells top‑to‑bottom. The notebook covers scraping (or loading saved data
 - **Artifacts**: confusion matrix, topic keyword tables, word clouds, explained‑variance plot.
 
 ---
-
-## 🖼️ Visuals
-[View Title Slide](slide_01.jpg) ·
-[Pipeline](slide_02.jpg) ·
-[Scraping & Preprocessing](slide_03.jpg) ·
-[Sentiment](slide_04.jpg) ·
-[Topics](slide_05.jpg)
-
-
-
+## 📊 Visuals
+All charts in one PDF: **[View the Visualization Pack (PDF)](docs/visuals.pdf)**
 
 ---
 
